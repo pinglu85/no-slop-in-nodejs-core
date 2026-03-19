@@ -113,6 +113,7 @@ speed up the process.
 - Haris Pasha Dipto (Software Engineer)
 - Etienne Rouge (Software Engineer, Open Source Maintainer, depending on Node.js since 2017)
 - Rebecca König (Software Developer)
+- Christopher Jeffrey (Programmer)
 - Noah Hall (Software Engineer, former Elm core team)
 - Edward Loveall (Software Developer)
 
