@@ -118,6 +118,7 @@ speed up the process.
 - Edward Loveall (Software Developer)
 - Diogo Goncalves Silva (Software Engineer)
 - Johan Alkstål (Software Developer)
+- LittleSnow (Front-end Developer)
 - Lukas Downes (Software Developer)
 - Eirik Berget Haukeland (Software Developer)
 - Jēkabs Milbrets (Web Developer)
