@@ -119,6 +119,11 @@ speed up the process.
 - Diogo Goncalves Silva (Software Engineer)
 - Johan Alkstål (Software Developer)
 - LittleSnow (Front-end Developer)
+- Lukas Downes (Software Developer)
+- Eirik Berget Haukeland (Software Developer)
+- Jēkabs Milbrets (Web Developer)
+- Ajeet Pratap Singh (Open Source Developer)
+- Shivam Veer (Software Engineer / DIYer)
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
 [1]: https://github.com/nodejs/node/pull/61478
