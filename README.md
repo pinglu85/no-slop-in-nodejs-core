@@ -180,6 +180,7 @@ speed up the process.
 - Eldar Aliyev (Software Engineer)
 - Kenneth G. Franqueiro (Software Engineer)
 - José Silva (software developer)
+- Attila Gonda (Software Engineer)
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
 [1]: https://github.com/nodejs/node/pull/61478
