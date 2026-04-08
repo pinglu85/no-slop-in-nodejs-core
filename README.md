@@ -205,6 +205,7 @@ speed up the process.
 - Josh Junon
 - Pavlo Ivanichenko
 - Sinigur Artiom
+- Brandon Zhang (WordPress Developer)
 - Lil-Kr (Full-Stack Developer)
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
